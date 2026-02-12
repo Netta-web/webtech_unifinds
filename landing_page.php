@@ -46,7 +46,8 @@
     </div>
   </div>
   <footer class="relative z-10 bg-gray-800 text-white text-center py-4">
-    <p>© 2024 Uni Finds. All rights reserved.</p>
+    <p>© 2026 Uni Finds. All rights reserved.</p>
   </footer>
 </body>
 </html>
+
